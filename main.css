@@ -19,6 +19,7 @@ font-family: 'Inter', sans-serif;
 
 #nav {
     background-color: var(--main-element-color) !important;
+    position: fixed !important;
 }
 
 .container-fluid {
