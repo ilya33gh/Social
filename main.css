@@ -61,6 +61,10 @@ font-family: 'Inter', sans-serif;
     border: 2px;
 }
 
+.navbar-collapse {
+    margin-bottom: 20px;
+}
+
 .header {
     display: flex;
     justify-content: center;
