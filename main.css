@@ -21,6 +21,7 @@ font-family: 'Inter', sans-serif;
     background-color: var(--main-element-color) !important;
     position: fixed !important;
     width: 100vw !important;
+    z-index: 999;
 }
 
 .container-fluid {
