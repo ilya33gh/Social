@@ -22,6 +22,7 @@ font-family: 'Inter', sans-serif;
     position: fixed !important;
     width: 100vw !important;
     z-index: 999;
+    border-radius: 0 0 20px 20px;
 }
 
 .container-fluid {
@@ -59,10 +60,6 @@ font-family: 'Inter', sans-serif;
 .navbar-toggler {
     color: #FFF;
     border: 2px;
-}
-
-.navbar-collapse {
-    margin-bottom: 20px;
 }
 
 .header {
