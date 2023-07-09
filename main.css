@@ -69,6 +69,7 @@ font-family: 'Inter', sans-serif;
     flex-direction: column;
     background-color: var(--main-element-color);
     height: 65vh;
+    min-height: 450px;
     border-radius: 0 0 30px 30px;
 }
 
